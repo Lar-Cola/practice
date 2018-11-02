@@ -1,0 +1,10 @@
+import java.util.*;
+
+public class helloWorld
+{
+
+public static void main(string [] args)
+{
+System.out.println("Hello world");
+}
+}
